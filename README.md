@@ -7,6 +7,14 @@ A tiny React Native app (Expo + TypeScript) that wires up a [RevenueCat](https:/
 
 Built as a hands-on artifact to get fluent with the mobile subscription flow from a **Sales / Solutions Engineering** angle — i.e. the exact integration a RevenueCat prospect does on day one, so I can demo it, debug it, and speak to it credibly.
 
+## Screenshots
+
+Running on an Android emulator, verified end-to-end via RevenueCat's Test Store (simulated purchases, no Play Console required):
+
+| Paywall (free) | Premium unlocked |
+|:--:|:--:|
+| <img src="docs/paywall.png" width="280" alt="Paywall showing one cat and a Go Premium button" /> | <img src="docs/premium.png" width="280" alt="Premium state with unlimited cats unlocked" /> |
+
 ## What it demonstrates
 
 | Concept | Where |
