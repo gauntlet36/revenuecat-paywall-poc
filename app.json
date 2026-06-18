@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "CatStack",
+    "slug": "revenuecat-paywall-poc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.opejacobs.catstack",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.opejacobs.catstack"
+    }
+  }
+}

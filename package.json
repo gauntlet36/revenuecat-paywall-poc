@@ -1,0 +1,25 @@
+{
+  "name": "revenuecat-paywall-poc",
+  "version": "1.0.0",
+  "description": "A tiny React Native (Expo + TypeScript) app demonstrating a RevenueCat-powered paywall: free users get one cat, premium unlocks unlimited cats.",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "expo": "~51.0.0",
+    "expo-status-bar": "~1.12.1",
+    "expo-system-ui": "~3.0.7",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-purchases": "^10.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "~18.2.45",
+    "typescript": "~5.3.3"
+  },
+  "private": true
+}
